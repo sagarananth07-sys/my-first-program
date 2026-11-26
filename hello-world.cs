@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("Hello, GitHub!");
-        Console.WriteLine("My coding journey starts here.");
+        Console.WriteLine("Hello Sagar!");
+        Console.WriteLine("Day 2 of my coding journey!");
     }
 }
